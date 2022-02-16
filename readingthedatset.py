@@ -9,8 +9,8 @@ import pandas as pd
 Remove # before lines to check the output step by step
 You do not have to create any new folder. It will be automatically created under D. Change this path to store the outputs. 
 '''
-path ="D:/Zoraiz/" #feel free to change it, but change only this.
-new_path = path + "zoraiz.zip"
+path ="D:/Output/" #feel free to change it, but change only this.
+new_path = path + "extraction.zip"
 os.makedirs(path) 
 
 #your url
