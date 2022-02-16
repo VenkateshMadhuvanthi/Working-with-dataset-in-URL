@@ -1,4 +1,4 @@
-#Header files (In case if not installed, install all the packages. For quicker and faster results use Google Colab.)
+#Header files (In case if not installed, install all the packages. For quicker and faster results, use Google Colab.)
 import urllib
 import urllib.request
 import zipfile
